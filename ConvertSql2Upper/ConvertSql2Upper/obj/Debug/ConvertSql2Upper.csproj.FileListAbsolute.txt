@@ -16,3 +16,13 @@ D:\MyConfiguration\jbl44215\Desktop\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\
 D:\MyConfiguration\jbl44215\Desktop\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.MainForm.resources
 D:\MyConfiguration\jbl44215\Desktop\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.Properties.Resources.resources
 D:\MyConfiguration\jbl44215\Desktop\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.csproj.GenerateResource.Cache
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\bin\Debug\Initial.ini
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\bin\Debug\ConvertSql2Upper.exe.config
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\bin\Debug\ConvertSql2Upper.exe
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\bin\Debug\ConvertSql2Upper.pdb
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.MainForm.resources
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.Properties.Resources.resources
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.csproj.GenerateResource.cache
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.csproj.CoreCompileInputs.cache
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.exe
+D:\Vs15Projects\KeywordsConverter\ConvertSql2Upper\ConvertSql2Upper\obj\Debug\ConvertSql2Upper.pdb
