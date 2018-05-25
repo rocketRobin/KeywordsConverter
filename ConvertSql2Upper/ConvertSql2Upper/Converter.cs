@@ -78,6 +78,7 @@ namespace ConvertSql2Upper
             resBuilder.Clear();
             lastIsLetter = true;
             temp = string.Empty;
+            var isString = false;
 
             // 打散源字符串
             char[] charArray = source.ToArray<char>();
@@ -85,6 +86,23 @@ namespace ConvertSql2Upper
             // 遍历
             foreach (var c in charArray)
             {
+                if (c=='\'')
+                {
+                    isString = !isString;
+                    symboBuilder.Append(c);
+                    continue;
+                }
+
+
+                if (isString)
+                {
+                    symboBuilder.Append(c);
+                    continue;
+                }
+
+
+
+
                 if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
                 {
                     // 如果上一个符号不是字母，就把符号缓冲区推送
